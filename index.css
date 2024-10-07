@@ -447,7 +447,7 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(max-width: 900px) {
     .portfolio__box {
-        align-items: initial;
+        align-items: right;
         flex-direction: column-reverse;
     }
 }
@@ -496,7 +496,6 @@ body:not(.user-is-tabbing) a:focus {
     .portfolio__image-box {
         flex: 1;
         margin: 0 0 0 10rem;
-        float:right;
     }
 }
 
