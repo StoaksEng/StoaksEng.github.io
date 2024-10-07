@@ -443,7 +443,6 @@ body:not(.user-is-tabbing) a:focus {
 .portfolio__box {
     display: flex;
     align-items: center;
-    direction:rtl
 }
 
 @media(max-width: 900px) {
